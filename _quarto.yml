@@ -16,14 +16,15 @@ book:
     - audio_accessories.qmd
     - summary.qmd
     - references.qmd
+  license: "CC BY-NC"
 
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
+  # pdf:
+  #   documentclass: scrreprt
 
 editor: visual
 
