@@ -1,0 +1,119 @@
+# Video Capture
+
+<!-- ================================================ -->
+
+## Parts of a Digital Camera
+
+Body...
+
+Sensor...
+
+Lens...
+
+<!-- ================================================ -->
+
+## Form Factors
+
+### Portability-focused
+
+Smartphones...
+
+Webcams...
+
+Compact (point-and-shoot) cameras...
+
+### Video-focused
+
+Camcorders...
+
+Cinema cameras...
+
+Studio cameras...
+
+### Hybrid
+
+DSLR cameras...
+
+Mirrorless cameras...
+
+### Special-use
+
+Action (adventure) cameras...
+
+Security (PTZ) cameras...
+
+Industrial cameras...
+
+<!-- ================================================ -->
+
+## Image Sensor Formats
+
+Full frame... ($36\times24$mm, $864$mm$^2$, 1.0 crop factor)
+
+APS-C Standard... ($23.6\times15.7$mm, $370$mm$^2$, 1.5 crop factor)
+
+APS-C Canon... ($22.2\times14.8$mm, $329$mm$^2$, 1.6 crop factor)
+
+Micro Four Thirds... ($17.3\times13$mm, $225$mm$^2$, 2.0 crop factor)
+
+Smaller sensors... (from $1.2$ to $116$ mm$^2$, 2.7 to 27 crop factor)
+
+Larger sensors... (Medium format... $53.7\times40.2$mm, $2159$mm$^2$, 0.65 crop factor)
+
+<!-- ================================================ -->
+
+## Chroma Subsampling
+
+<!-- ================================================ -->
+
+## Color Depth
+
+<!-- ================================================ -->
+
+## Resolution
+
+<!-- ================================================ -->
+
+## Frame Rate
+
+<!-- ================================================ -->
+
+## Time Limit
+
+<!-- ================================================ -->
+
+## Input/Output
+
+<!-- ================================================ -->
+
+### Recording Media
+
+SD cards...
+
+SSD drives...
+
+Recorders...
+
+<!-- ================================================ -->
+
+### Capture Devices
+
+USB connections...
+
+USB dongles...
+
+PCI cards...
+
+<!-- ================================================ -->
+
+### File Formats
+
+<!-- ================================================ -->
+
+## Recommendations
+
+### High Budget
+
+### Medium Budget
+
+### Low Budget

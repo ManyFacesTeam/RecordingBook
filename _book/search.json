@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Recording Book",
+    "section": "",
+    "text": "This is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "video_capture.html",
+    "href": "video_capture.html",
+    "title": "4  Video Capture",
+    "section": "",
+    "text": "Body…\nSensor…\nLens…"
+  },
+  {
+    "objectID": "video_capture.html#form-factors",
+    "href": "video_capture.html#form-factors",
+    "title": "4  Video Capture",
+    "section": "4.2 Form Factors",
+    "text": "4.2 Form Factors\n\n4.2.1 Portability-focused\nSmartphones…\nWebcams…\nCompact (point-and-shoot) cameras…\n\n\n4.2.2 Video-focused\nCamcorders…\nCinema cameras…\nStudio cameras…\n\n\n4.2.3 Hybrid\nDSLR cameras…\nMirrorless cameras…\n\n\n4.2.4 Special-use\nAction (adventure) cameras…\nSecurity (PTZ) cameras…\nIndustrial cameras…"
+  },
+  {
+    "objectID": "video_capture.html#image-sensor-formats",
+    "href": "video_capture.html#image-sensor-formats",
+    "title": "4  Video Capture",
+    "section": "4.3 Image Sensor Formats",
+    "text": "4.3 Image Sensor Formats\nFull frame… (\\(36\\times24\\)mm, \\(864\\)mm\\(^2\\), 1.0 crop factor)\nAPS-C Standard… (\\(23.6\\times15.7\\)mm, \\(370\\)mm\\(^2\\), 1.5 crop factor)\nAPS-C Canon… (\\(22.2\\times14.8\\)mm, \\(329\\)mm\\(^2\\), 1.6 crop factor)\nMicro Four Thirds… (\\(17.3\\times13\\)mm, \\(225\\)mm\\(^2\\), 2.0 crop factor)\nSmaller sensors… (from \\(1.2\\) to \\(116\\) mm\\(^2\\), 2.7 to 27 crop factor)\nLarger sensors… (Medium format… \\(53.7\\times40.2\\)mm, \\(2159\\)mm\\(^2\\), 0.65 crop factor)"
+  },
+  {
+    "objectID": "video_capture.html#chroma-subsampling",
+    "href": "video_capture.html#chroma-subsampling",
+    "title": "4  Video Capture",
+    "section": "4.4 Chroma Subsampling",
+    "text": "4.4 Chroma Subsampling"
+  },
+  {
+    "objectID": "video_capture.html#color-depth",
+    "href": "video_capture.html#color-depth",
+    "title": "4  Video Capture",
+    "section": "4.5 Color Depth",
+    "text": "4.5 Color Depth"
+  },
+  {
+    "objectID": "video_capture.html#resolution",
+    "href": "video_capture.html#resolution",
+    "title": "4  Video Capture",
+    "section": "4.6 Resolution",
+    "text": "4.6 Resolution"
+  },
+  {
+    "objectID": "video_capture.html#frame-rate",
+    "href": "video_capture.html#frame-rate",
+    "title": "4  Video Capture",
+    "section": "4.7 Frame Rate",
+    "text": "4.7 Frame Rate"
+  },
+  {
+    "objectID": "video_capture.html#time-limit",
+    "href": "video_capture.html#time-limit",
+    "title": "4  Video Capture",
+    "section": "4.8 Time Limit",
+    "text": "4.8 Time Limit"
+  },
+  {
+    "objectID": "video_capture.html#inputoutput",
+    "href": "video_capture.html#inputoutput",
+    "title": "4  Video Capture",
+    "section": "4.9 Input/Output",
+    "text": "4.9 Input/Output\n\n\n4.9.1 Recording Media\nSD cards…\nSSD drives…\nRecorders…\n\n\n\n4.9.2 Capture Devices\nUSB connections…\nUSB dongles…\nPCI cards…\n\n\n\n4.9.3 File Formats"
+  },
+  {
+    "objectID": "video_capture.html#recommendations",
+    "href": "video_capture.html#recommendations",
+    "title": "4  Video Capture",
+    "section": "4.10 Recommendations",
+    "text": "4.10 Recommendations\n\n4.10.1 High Budget\n\n\n4.10.2 Medium Budget\n\n\n4.10.3 Low Budget"
+  },
+  {
+    "objectID": "video_accessories.html#mounting-options",
+    "href": "video_accessories.html#mounting-options",
+    "title": "5  Video Accessories",
+    "section": "5.2 Mounting Options",
+    "text": "5.2 Mounting Options"
+  },
+  {
+    "objectID": "video_accessories.html#lighting",
+    "href": "video_accessories.html#lighting",
+    "title": "5  Video Accessories",
+    "section": "5.3 Lighting",
+    "text": "5.3 Lighting"
+  },
+  {
+    "objectID": "audio_capture.html",
+    "href": "audio_capture.html",
+    "title": "6  Audio Capture",
+    "section": "",
+    "text": "Dynamic…\nLarge diaphragm condenser…\nSmall diaphragm condenser…"
+  },
+  {
+    "objectID": "audio_capture.html#polar-patterns",
+    "href": "audio_capture.html#polar-patterns",
+    "title": "6  Audio Capture",
+    "section": "6.2 Polar Patterns",
+    "text": "6.2 Polar Patterns\nOmnidirectional…\nCardioid…\nFigure Eight…\nSupercardioid…\nHypercardioid…\nLobar…"
+  },
+  {
+    "objectID": "audio_capture.html#form-factors",
+    "href": "audio_capture.html#form-factors",
+    "title": "6  Audio Capture",
+    "section": "6.3 Form Factors",
+    "text": "6.3 Form Factors\nHandheld…\nHeadworn…\nLavalier (lapel)…\nOn-camera…\nBoom…"
+  },
+  {
+    "objectID": "audio_capture.html#inputoutput",
+    "href": "audio_capture.html#inputoutput",
+    "title": "6  Audio Capture",
+    "section": "6.4 Input/Output",
+    "text": "6.4 Input/Output\n1/8” (3.5mm) TRS…\n1/8” (3.5mm) TRRS…\n1/4” TRS…\nXLR…\n3-Pin Lemo…\nWireless…"
+  },
+  {
+    "objectID": "audio_capture.html#microphone-power",
+    "href": "audio_capture.html#microphone-power",
+    "title": "6  Audio Capture",
+    "section": "6.5 Microphone Power",
+    "text": "6.5 Microphone Power\nPassive…\nPlug-in power…\nPhantom power…"
+  },
+  {
+    "objectID": "audio_capture.html#audio-devices",
+    "href": "audio_capture.html#audio-devices",
+    "title": "6  Audio Capture",
+    "section": "6.6 Audio Devices",
+    "text": "6.6 Audio Devices\nMixers…\nInterfaces…\nRecorders…"
+  },
+  {
+    "objectID": "audio_capture.html#recommendations",
+    "href": "audio_capture.html#recommendations",
+    "title": "6  Audio Capture",
+    "section": "6.7 Recommendations",
+    "text": "6.7 Recommendations\n\n6.7.1 High Budget\n\n\n6.7.2 Medium Budget\n\n\n6.7.3 Low Budget"
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "8  Summary",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

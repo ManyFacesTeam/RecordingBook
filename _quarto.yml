@@ -2,12 +2,18 @@ project:
   type: book
 
 book:
-  title: "RecordingBook"
-  author: "Jane Doe"
-  date: "7/28/2022"
+  title: "Recording Book"
+  author: "Jeffrey Girard"
+  date: "2022-07-28"
   chapters:
     - index.qmd
     - intro.qmd
+    - image_capture.qmd
+    - image_accessories.qmd
+    - video_capture.qmd
+    - video_accessories.qmd
+    - audio_capture.qmd
+    - audio_accessories.qmd
     - summary.qmd
     - references.qmd
 
